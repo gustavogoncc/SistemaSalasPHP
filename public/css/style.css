@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+}
+
+/* Cards estilo Airbnb */
+.card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: .2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* Botão principal estilo Airbnb */
+.btn-primary {
+    background-color: #ff385c;
+    border-color: #ff385c;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.btn-primary:hover {
+    background-color: #e02046;
+    border-color: #e02046;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #111 !important;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.3rem;
+    letter-spacing: .5px;
+}
+
+/* Inputs arredondados */
+input, textarea, select {
+    border-radius: 10px !important;
+}
+
+/* Tabelas */
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
