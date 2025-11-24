@@ -147,4 +147,3 @@ Faça suas alterações
 
 Envie um pull request
 
-📖 Licença
